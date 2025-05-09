@@ -23,7 +23,7 @@ A modern iOS application that helps users discover and explore restaurants based
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/RestaurantGuide.git
+git clone https://github.com/burakatakl/RestaurantGuide.git
 ```
 
 2. Open `RestaurantGuide.xcodeproj` in Xcode
@@ -49,4 +49,4 @@ The app follows MVVM (Model-View-ViewModel) architecture pattern and uses SwiftU
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details 
+This project is licensed under the MIT License - see the LICENSE file for details
