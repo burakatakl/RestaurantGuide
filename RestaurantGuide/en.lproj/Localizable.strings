@@ -1,0 +1,74 @@
+// General
+"done" = "Done";
+"cancel" = "Cancel";
+"save" = "Save";
+"edit" = "Edit";
+"delete" = "Delete";
+"search" = "Search";
+"language_selection" = "Language Selection";
+
+// Main Menu
+"restaurants" = "Restaurants";
+"favorites" = "Favorites";
+"profile" = "Profile";
+"settings" = "Settings";
+
+// Restaurant Details
+"menu" = "Menu";
+"reviews" = "Reviews";
+"photos" = "Photos";
+"location" = "Location";
+"working_hours" = "Working Hours";
+"contact" = "Contact";
+
+// Filters
+"filters" = "Filters";
+"cuisine_type" = "Cuisine Type";
+"price_range" = "Price Range";
+"distance" = "Distance";
+"rating" = "Rating";
+
+// Social
+"friends" = "Friends";
+"group_reservations" = "Group Reservations";
+"shared_reviews" = "Shared Reviews";
+"add_friend" = "Add Friend";
+"new_group_reservation" = "New Group Reservation";
+
+// Statistics
+"statistics" = "Statistics";
+"total_visits" = "Total Visits";
+"average_rating" = "Average Rating";
+"popular_hours" = "Popular Hours";
+"user_demographics" = "User Demographics";
+
+// Features
+"child_friendly" = "Child Friendly";
+"pet_friendly" = "Pet Friendly";
+"outdoor_seating" = "Outdoor Seating";
+"parking" = "Parking";
+"wifi" = "Wi-Fi";
+"wheelchair_access" = "Wheelchair Access";
+"delivery" = "Delivery";
+"takeout" = "Takeout";
+"reservation" = "Reservation";
+"live_music" = "Live Music";
+
+// Menu Options
+"alcohol" = "Alcohol";
+"vegetarian_options" = "Vegetarian Options";
+"vegan_options" = "Vegan Options";
+"gluten_free_options" = "Gluten Free Options";
+
+// Settings
+"notifications" = "Notifications";
+"push_notifications" = "Push Notifications";
+"email_notifications" = "Email Notifications";
+"about" = "About";
+"app_version" = "App Version";
+"privacy_policy" = "Privacy Policy";
+"terms_of_service" = "Terms of Service";
+
+// Profile
+"social" = "Social";
+"help_support" = "Help & Support"; 

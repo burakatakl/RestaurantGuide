@@ -1,0 +1,204 @@
+// Genel
+"done" = "Tamam";
+"cancel" = "İptal";
+"save" = "Kaydet";
+"edit" = "Düzenle";
+"delete" = "Sil";
+"search" = "Ara";
+"language selection" = "Dil Seçimi";
+
+// Ana Menü
+"restaurants" = "Restoranlar";
+"favorites" = "Favoriler";
+"profile" = "Profil";
+"settings" = "Ayarlar";
+
+// Restoran Detayları
+"menu" = "Menü";
+"reviews" = "Yorumlar";
+"photos" = "Fotoğraflar";
+"location" = "Konum";
+"working hours" = "Çalışma Saatleri";
+"contact" = "İletişim";
+
+// Filtreler
+"filters" = "Filtreler";
+"cuisine type" = "Mutfak Türü";
+"price range" = "Fiyat Aralığı";
+"distance" = "Mesafe";
+"rating" = "Puan";
+
+// Sosyal
+"friends" = "Arkadaşlar";
+"group reservations" = "Grup Rezervasyonları";
+"shared reviews" = "Paylaşılan Yorumlar";
+"add friend" = "Arkadaş Ekle";
+"new group reservation" = "Yeni Grup Rezervasyonu";
+
+// İstatistikler
+"statistics" = "İstatistikler";
+"total visits" = "Toplam Ziyaret";
+"average rating" = "Ortalama Puan";
+"popular hours" = "Popüler Saatler";
+"user demographics" = "Kullanıcı Demografisi";
+
+// Özellikler
+"child friendly" = "Çocuk Dostu";
+"pet friendly" = "Evcil Hayvan Dostu";
+"outdoor seating" = "Açık Hava Oturma Alanı";
+"parking" = "Otopark";
+"wifi" = "Wi-Fi";
+"wheelchair access" = "Tekerlekli Sandalye Erişimi";
+"delivery" = "Teslimat";
+"takeout" = "Paket Servis";
+"reservation" = "Rezervasyon";
+"live music" = "Canlı Müzik";
+
+// Menü Seçenekleri
+"alcohol" = "Alkollü İçecek";
+"vegetarian options" = "Vejetaryen Seçenekler";
+"vegan options" = "Vegan Seçenekler";
+"gluten free options" = "Glutensiz Seçenekler";
+
+// Ayarlar
+"notifications" = "Bildirimler";
+"push notifications" = "Anlık Bildirimler";
+"email notifications" = "E-posta Bildirimleri";
+"about" = "Hakkında";
+"app version" = "Uygulama Versiyonu";
+"privacy policy" = "Gizlilik Politikası";
+"terms of service" = "Kullanım Koşulları";
+
+// Profil
+"social" = "Sosyal";
+"help support" = "Yardım & Destek";
+
+// Giriş ve Kayıt
+"welcome title" = "Restaurant Guide";
+"welcome subtitle" = "Lezzetli yemekleri keşfet,\nfavori restoranlarını bul";
+"create account" = "Hesap Oluştur";
+"sign in" = "Giriş Yap";
+"continue as guest" = "Misafir Olarak Devam Et";
+"welcome back" = "Tekrar Hoş Geldin!";
+"welcome back subtitle" = "Lezzetli yemekler seni bekliyor";
+"email" = "E-posta";
+"password" = "Şifre";
+"full name" = "Ad Soyad";
+"phone number" = "Telefon Numarası";
+"confirm password" = "Şifre Tekrar";
+"remember me" = "Beni Hatırla";
+"forgot password" = "Şifremi Unuttum";
+"already have account" = "Zaten hesabın var mı?";
+"no account" = "Hesabın yok mu?";
+
+// Menü
+"menu item" = "Menü Öğesi";
+"price" = "Fiyat";
+"dietary options" = "Diyet Seçenekleri";
+
+// Arama
+"search restaurants" = "Restoran Ara";
+"advanced search" = "Gelişmiş Arama";
+"advanced search subtitle" = "Detaylı arama kriterlerinizi belirleyin";
+"dietary restrictions" = "Diyet Kısıtlamaları";
+"ambience" = "Ortam";
+"features" = "Özellikler";
+"rating range" = "Puan Aralığı";
+"time selection" = "Zaman Seçimi";
+"open now" = "Şu an açık olanlar";
+"date time" = "Tarih ve Saat";
+"start search" = "Aramayı Başlat";
+
+// Tercihler
+"preferences" = "Tercihler";
+"preferences subtitle" = "Yemek tercihlerinizi seçin";
+"cuisine preferences" = "Mutfak Tercihleri";
+"price preferences" = "Fiyat Tercihleri";
+"distance preferences" = "Mesafe Tercihi";
+"dietary preferences" = "Diyet Tercihleri";
+"save preferences" = "Tercihleri Kaydet";
+"skip" = "Atla";
+
+// Mutfak Seçenekleri
+"turkish" = "Türk";
+"italian" = "İtalyan";
+"chinese" = "Çin";
+"japanese" = "Japon";
+"indian" = "Hint";
+"mexican" = "Meksika";
+"french" = "Fransız";
+"american" = "Amerikan";
+
+// Hata Mesajları
+"invalid email" = "Geçerli bir e-posta adresi giriniz";
+"invalid phone" = "Geçerli bir telefon numarası giriniz";
+"password length" = "Şifre en az 8 karakter olmalıdır";
+"password mismatch" = "Şifreler eşleşmiyor";
+"registration success" = "Kayıt başarılı! Hoş geldiniz.";
+"login success" = "Giriş başarılı! Hoş geldiniz.";
+
+// Menü Kategorileri
+"all" = "Tümü";
+"appetizers" = "Başlangıçlar";
+"main courses" = "Ana Yemekler";
+"desserts" = "Tatlılar";
+"drinks" = "İçecekler";
+"gluten free" = "Glutensiz";
+"lactose free" = "Laktozsuz";
+
+// Diyet Seçenekleri
+"vegetarian" = "Vejetaryen";
+"vegan" = "Vegan";
+"halal" = "Halal";
+"dairy free" = "Süt Ürünsüz";
+
+// Ortam Seçenekleri
+"romantic" = "Romantik";
+"family" = "Aile";
+"business" = "İş";
+"friends" = "Arkadaş";
+"quiet" = "Sessiz";
+
+// Özellikler
+"terrace" = "Teras";
+"parking" = "Park Yeri";
+"reservation" = "Rezervasyon";
+"delivery" = "Teslimat";
+
+// Arama
+"time selection" = "Zaman Seçimi";
+"open now" = "Şu an açık olanlar";
+"date time" = "Tarih ve Saat";
+"start search" = "Aramayı Başlat";
+
+// Tercihler
+"preferences subtitle" = "Yemek tercihlerinizi seçin";
+"cuisine preferences" = "Mutfak Tercihleri";
+"price preferences" = "Fiyat Tercihleri";
+"distance preferences" = "Mesafe Tercihi";
+"dietary preferences" = "Diyet Tercihleri";
+"save preferences" = "Tercihleri Kaydet";
+
+// Mutfak Seçenekleri
+"turkish" = "Türk";
+"italian" = "İtalyan";
+"chinese" = "Çin";
+"japanese" = "Japon";
+"indian" = "Hint";
+"mexican" = "Meksika";
+"french" = "Fransız";
+"american" = "Amerikan";
+
+// Rezervasyon Durumları
+"reservation pending" = "Beklemede";
+"reservation confirmed" = "Onaylandı";
+"reservation cancelled" = "İptal Edildi";
+
+// Cinsiyet
+"gender male" = "Erkek";
+"gender female" = "Kadın";
+
+// Ziyaret Sıklığı
+"visit weekly" = "Haftalık";
+"visit monthly" = "Aylık";
+"visit yearly" = "Yıllık"; 
